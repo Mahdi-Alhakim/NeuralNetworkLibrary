@@ -34,7 +34,7 @@ python3 -m unittest tests.test_neural_network
 
 ## Library Structure:
 
-NeuralNetwork\
+NeuralNetworkLibrary\
 |-- neuralnetwork\
 |   |-- \_\_init__.py\
 |   |-- neural_network.py\
@@ -43,7 +43,8 @@ NeuralNetwork\
 |   |-- test_neural_network.py\
 |-- examples\
 |   |-- example1.py\
-|-- docs\
+|-- dist\
+|   |-- neuralnetwork-0.1.egg\
 |-- setup.py\
 |-- README.md\
 |-- LICENSE
