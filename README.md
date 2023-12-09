@@ -42,7 +42,7 @@ NeuralNetwork\
 |   |-- \_\_init__.py\
 |   |-- test_neural_network.py\
 |-- examples\
-|   |-- example_usage.py\
+|   |-- example1.py\
 |-- docs\
 |-- setup.py\
 |-- README.md\
